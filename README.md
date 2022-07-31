@@ -4,5 +4,4 @@ Coming Soon(ish)
 ### Domains
 | Primary | Aliases |
 |:-------:|:--------|
-| librescap.io | <ul><li>librescap.com</li><li>librescap.dev</li><li>librescap.net</li><li>openscap.dev</li><li>openscap.io</li><li>openscap.net</li></ul> |
-
+| librescap.io | <ul><li>libre-scap.{com dev net org}<li>librescap.{ com dev io net org }</li><li>open-scap.{ com dev io net }</li><li>openscap.{dev io net</li></ul> |
